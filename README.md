@@ -1,6 +1,6 @@
 # parent-func
 
-> A Vue.js project
+> How to Vuejs call parent function tutorial
 
 ## Build Setup
 
